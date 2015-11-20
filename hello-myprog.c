@@ -6,9 +6,9 @@
 int main (void)
 	//добавляем функцию
 {
-	printf ("Hello World"\n);
+	printf ("Hello World\n");
 	//выводими строку на экран
-	retern 0;
+	return 0;
 	//возвращаем 0, если все успешно
 }
 
