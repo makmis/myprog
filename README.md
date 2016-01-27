@@ -4,9 +4,9 @@
 
 Для установки нужно выполнить:
 
-aclocal
-automake --foreign --add missing
-autoconf
-./configure
-make
-sudo make install
+ aclocal
+ automake --foreign --add missing
+ autoconf
+ ./configure
+ make
+ sudo make install
