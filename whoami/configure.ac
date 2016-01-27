@@ -1,0 +1,8 @@
+AC_INIT([whoami], [0.1])
+AC_PROG_CC
+AC_CONFIG_FILES(Makefile)
+AC_CHECK_HEADER(pwd.h)
+AC_CHECK_HEADER(stdio.h)
+AC_CHECK_HEADER(stdlib.h)
+AC_CHECK_LIB(c)
+AC_OUTPUT
